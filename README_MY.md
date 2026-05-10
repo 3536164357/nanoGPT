@@ -11,7 +11,7 @@
 ## 2. 环境配置
 - Python 3.10 + PyTorch 2.8.0+cu128
 - 依赖：见 README.md
-- 硬件：GPU 训练
+- 硬件：GPU 训练 
 
 ## 3. 基线实验
 **参数配置**：
@@ -57,7 +57,7 @@
 - 实验 B **生成的文本样例**：
 > KING RICHARD II:
 > Sweet London, and that exceeds the day
-> Be ta'en such a parliamage to bed ours.
+> Be ta'en such a parliamage to bed ours
 > 
 > NORFOLK:
 > What, noble lord?
