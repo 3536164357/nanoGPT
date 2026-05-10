@@ -10,7 +10,7 @@
 
 ## 2. 环境配置
 - Python 3.10 + PyTorch 2.8.0+cu128
-- 依赖：见 requirements.txt
+- 依赖：见 README.md
 - 硬件：GPU 训练
 
 ## 3. 基线实验
